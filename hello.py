@@ -1,2 +1,2 @@
 print("hello boy")
-print("good ")
+print("good funny boys")
